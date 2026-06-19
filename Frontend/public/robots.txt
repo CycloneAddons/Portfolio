@@ -1,0 +1,3 @@
+# Allow all search engine bots to crawl and index all pages on the site
+User-agent: *
+Allow: /

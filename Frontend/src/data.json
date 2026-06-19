@@ -1,0 +1,368 @@
+{
+  "hero": {
+    "defaultName": "Cyclone Addons",
+    "alternateName": "Deepesh Chakravarti",
+    "dob": "22/10/2008",
+    "roles": [
+      "Software Engineer",
+      "Backend Developer",
+      "Discord Bot Developer",
+      "Node.js Developer",
+      "Reverse Engineer",
+      "Founder Of Zenkai HeadQuarters",
+      "Former Co-Founder, GFXMETA Esports (Acquired & Rebranded)"
+    ],
+    "description": "I'm a Software engineer focused on Discord bot development and backend systems. I've built solutions for multiple clients, with projects used across 1,900+ servers and 3M+ users. While My passion lies in building scalable systems. I love Reverse Engineering and Developing things that shouldn't exist.",
+    "socials": [
+      {
+        "icon": "Github",
+        "href": "https://github.com/CycloneAddons"
+      },
+      {
+        "icon": "Linkedin",
+        "href": "https://www.linkedin.com/in/cycloneaddons/"
+      },
+      {
+        "icon": "Discord",
+        "href": "https://zenkaix.dev/invite"
+      },
+      {
+        "icon": "Instagram",
+        "href": "https://instagram.com/cycloneaddons"
+      },
+      {
+        "icon": "Youtube",
+        "href": "https://www.youtube.com/@CycloneAddons"
+      }
+    ]
+  },
+  "about": {
+    "story": [
+      {
+        "year": "2020-2023",
+        "title": "First Project",
+        "description": "Built my first Discord bot using the Aoi.js library. It was my first programming project, and I received a lot of help from the Aoi.js developers and community, which helped me learn how to code."
+      },
+      {
+        "year": "2023",
+        "title": "Advanced Node.js",
+        "description": "Learned advanced Node.js concepts and started building backend systems, Discord bots, and APIs using Discord.js, Express.js, MongoDB, and Mongoose. Gained hands-on experience in database design, REST APIs, and scalable application development."
+      },
+      {
+        "year": "2023",
+        "title": "TalkGPT - AI of Tomorrow",
+        "description": "Built TalkGPT, an advanced AI-powered web platform that combined multiple cutting-edge technologies into a single assistant. The platform enabled users to interact with AI naturally through voice, eliminating the need to type messages. Users could speak in multiple languages, have their speech converted to text, receive AI-generated responses, and listen to replies through realistic text-to-speech voices. TalkGPT integrated OpenAI for intelligent conversations, Google Speech-to-Text for voice input, Replicate for AI image generation, Google TTS and Edge TTS for voice responses, and custom APIs for domain intelligence, weather information, and real-time web data. At a time when most AI assistants lacked image generation, real-time information access, multilingual voice interaction, and multi-modal capabilities, TalkGPT provided all of these features in a single platform. Through this project, I gained hands-on experience with full-stack development, API integration, web scraping, domain management, hosting, deployment, and production infrastructure. The project won competitions at the school, district, and state levels, earning me a 7-day government-sponsored educational trip to Delhi. During this journey, I also learned the fundamentals of HTML and CSS, which laid the foundation for my web development skills. At the time, most AI assistants lacked image generation, real-time information access, multilingual voice interaction, and multi-modal capabilities. Three years later, the same multi-modal approach—combining voice, text, images, and real-time information—has become a core part of leading AI platforms such as ChatGPT, Gemini, and other next-generation AI assistants."
+      },
+      {
+        "year": "2024",
+        "title": "Cybrox Cloud - Bot",
+        "description": "Built Cybrox Cloud, a Telegram-based file sharing platform that allowed users to upload, store, manage, and share files through private and public links. The bot featured file uploads, searchable public files, unique file codes, file management tools, and public file discovery directly within Telegram. I initially developed the project in Node.js, but after learning the basics of Python, I completely rewrote the entire codebase in Python within two months to improve my understanding of a new programming language and backend development. This project helped me gain experience in bot development, file management systems, database integration, user authentication, and cross-language software development. AI-assisted tools were used during development to help implement certain features and accelerate learning."
+      },
+      {
+        "year": "2024",
+        "title": "React & AI",
+        "description": "Started learning React and building interactive web applications. While still a beginner with frontend development, I used AI tools to accelerate my learning, understand new concepts, debug issues, and explore modern development practices. This marked the beginning of my journey into component-based UI development and AI-assisted software engineering."
+      },
+      {
+        "year": "2024",
+        "title": "Battery Protector - Software",
+        "description": "Built Battery Protector, a native Windows desktop application designed to help users maintain battery health by monitoring charge levels and providing intelligent charging alerts. Developed using Tauri and modern web technologies while working directly with Windows system APIs for battery information, system tray integration, notifications, auto-start functionality, and background processes. This project introduced me to desktop application architecture, native operating system integration, low-level Windows APIs, and performance-focused software development."
+      },
+      {
+        "year": "2025",
+        "title": "One Dream Esports - Site",
+        "description": "Developed a secure authentication system for the One Dream Esports platform. Implemented email and password authentication, email verification services, account management workflows, secure session handling, and OAuth2 login with Google and Discord. Designed the authentication architecture, integrated third-party identity providers, and built the backend services required to manage user accounts securely. This project strengthened my understanding of authentication flows, OAuth2, email services, backend security, and production-ready user management systems."
+      },
+      {
+        "year": "2025",
+        "title": "Neolize: AI-Powered Esports Automation",
+        "description": "Created GFX Visual (later rebranded as Neolize), an AI-powered esports automation platform capable of generating BGMI/PUBG Mobile tournament point tables from match screenshots in under a minute. Solving this problem required extensive research into computer vision and OCR technologies. I trained a custom YOLO model to detect specific regions within result and slot-list screenshots, standardized image dimensions for consistent processing, and integrated PaddleOCR to extract player and team data with higher accuracy. Since OCR results were often inconsistent, I implemented fuzzy matching techniques to intelligently map player names and teams between slot-list and result screenshots. The system automatically identified team placements, calculated points, and generated professional tournament point tables using Canvas. What previously required significant manual effort could now be completed automatically within minutes, streamlining esports tournament management and scoring workflows."
+      },
+      {
+        "year": "2025",
+        "title": "Zenkai HQ: Uniting Five Developers Under One Vision",
+        "description": "Founded Zenkai Headquarters alongside 4 fellow developers to unify our projects, products, and communities under a single organization. Instead of maintaining separate brands and support servers, we established a central hub for development, collaboration, client services, and community engagement. Zenkai HQ specializes in creating custom Discord bots, websites, REST APIs, moderation systems, music bots, and esports solutions. As a team of five developers, we focus on delivering scalable, production-ready software while maintaining close relationships with our users and clients. Today, our products collectively serve more than 3,100+ Discord servers and over 5 million users worldwide."
+      },
+      {
+        "year": "2025",
+        "title": "Quo: Esports Management at Scale",
+        "description": "Co-developed Quo, a large-scale esports management platform for Discord and the successor to Quotient. Working alongside a close collaborator, I contributed extensively to the bot's architecture, feature development, maintenance, and continuous improvement. Quo provides advanced scrim and tournament management tools through both Discord and a dedicated web dashboard, helping esports communities automate and streamline their operations. I regularly developed new features, optimized existing systems, fixed bugs, and improved performance and reliability. Today, Quo serves more than 1,900 Discord servers, making it one of the most widely used esports management bots in the Discord esports ecosystem."
+      },
+      {
+        "year": "2025",
+        "title": "Anaconda: Reimagining Discord Communities",
+        "description": "Developed Anaconda, a feature-rich Discord platform focused on delivering capabilities that were unavailable or uncommon in existing bots. The project introduced unique systems such as Guild Tags, advanced Soundboard Management, Premium Music, and other community-focused features designed to enhance server management and user experience. Beyond maintaining and expanding the platform, I am currently leading the development of Anaconda V2, an ambitious esports management ecosystem aimed at eliminating repetitive manual processes. The new system integrates tournament operations, team registrations, and participation workflows into a unified platform. Teams register once and can then join tournaments, scrims, and competitive events with a single click. Anaconda V2 is being designed to integrate directly with official game data sources, creating a more automated, scalable, and efficient esports experience for organizers and players alike."
+      },
+      {
+        "year": "2026",
+        "title": "Anaconda V2 & PostgreSQL",
+        "description": "Delivered more than three custom esports management bots for clients, each tailored to their specific tournament and community requirements. Through these projects, I gained hands-on experience with scalable backend architecture, database design, and production operations. I am currently developing Anaconda V2, a next-generation esports management platform focused on automation, reliability, and performance. At the same time, I am exploring PostgreSQL and Drizzle ORM to build more scalable, maintainable, and production-ready systems. My current focus is on database optimization, efficient data modeling, caching strategies, and backend architectures capable of serving large communities and esports ecosystems."
+      }
+    ],
+    "profileDetails": [
+      {
+        "label": "Role",
+        "value": "Software Engineer & Founder"
+      },
+      {
+        "label": "Stack",
+        "value": "Node.js, Discord.js, Express.js, MongoDB, Redis, Python, Postman, etc."
+      },
+      {
+        "label": "Focus",
+        "value": "AI, Esports Automation, Backend Systems & Reverse Engineering"
+      },
+      {
+        "label": "Status",
+        "value": "Building Anaconda V2"
+      }
+    ]
+  },
+  "expertise": [
+    {
+      "icon": "Server",
+      "title": "Backend Engineering",
+      "copy": "API gateways, event-driven workers, queue systems, and service architectures designed to handle real load.",
+      "tags": [
+        "Node.js",
+        "TypeScript",
+        "REST",
+        "Queues"
+      ]
+    },
+    {
+      "icon": "Database",
+      "title": "Databases",
+      "copy": "PostgreSQL-first. Schema design, indexing strategy, replication, query tuning, and migrations that don't break production.",
+      "tags": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB"
+      ]
+    },
+    {
+      "icon": "Cloud",
+      "title": "Infrastructure",
+      "copy": "Containerized deployments, CI pipelines, observability, and the boring reliability work that quietly compounds.",
+      "tags": [
+        "Docker",
+        "Linux",
+        "Nginx"
+      ]
+    },
+    {
+      "icon": "Layout",
+      "title": "Frontend",
+      "copy": "Composable React interfaces with strong typing, motion, and a focus on perceived performance.",
+      "tags": [
+        "React",
+        "TanStack",
+        "Tailwind",
+        "Motion"
+      ]
+    },
+    {
+      "icon": "Cpu",
+      "title": "AI Automation",
+      "copy": "OCR engines, classification pipelines, LLM-backed agents, and automation glue that turns chaos into clean data.",
+      "tags": [
+        "OCR",
+        "LLMs",
+        "Pipelines"
+      ]
+    },
+    {
+      "icon": "Layers",
+      "title": "System Architecture",
+      "copy": "Designing systems that scale horizontally, fail gracefully, and stay legible to the engineers who maintain them.",
+      "tags": [
+        "Distributed",
+        "Event-driven",
+        "Domain modeling"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "year": "2020",
+      "title": "Programming Foundations",
+      "description": "Started learning programming through Discord bot development. Built small automation projects, learned JavaScript fundamentals, debugging, APIs, and event-driven programming."
+    },
+    {
+      "year": "2021",
+      "title": "Bot Development",
+      "description": "Expanded my knowledge of Discord bot development, command systems, databases, and application architecture. Built increasingly complex bots while improving problem-solving and software design skills."
+    },
+    {
+      "year": "2022",
+      "title": "Backend Fundamentals",
+      "description": "Explored backend development concepts including databases, REST APIs, authentication, and scalable application design. Focused on writing maintainable and efficient code."
+    },
+    {
+      "year": "2023",
+      "title": "Backend Engineer",
+      "description": "Started building production-oriented applications using Node.js, Express.js, MongoDB, and Mongoose. Developed APIs, automation systems, AI integrations, and full-stack solutions."
+    },
+    {
+      "year": "2024",
+      "title": "Full-Stack Developer",
+      "description": "Expanded into React, Python, desktop applications, AI-powered systems, and deployment workflows. Built projects involving voice AI, image generation, OCR, file management, and Windows software."
+    },
+    {
+      "year": "2025-Present",
+      "title": "Software Engineer",
+      "description": "Developing large-scale Discord platforms, esports automation systems, authentication services, AI solutions, and production-ready backend infrastructure. Co-founded Zenkai HQ and currently focus on scalable architectures, PostgreSQL, Drizzle ORM, and next-generation esports platforms."
+    }
+  ],
+  "stats": [
+    {
+      "value": 5,
+      "suffix": "+",
+      "label": "Years Experience"
+    },
+    {
+      "value": 100,
+      "suffix": "+",
+      "label": "Projects"
+    },
+    {
+      "value": 3.1,
+      "suffix": "M+",
+      "label": "Total Users Intracted With My Products"
+    },
+    {
+      "value": 1.85,
+      "suffix": "K",
+      "label": "Communities Served"
+    },
+    {
+      "value": 5,
+      "suffix": "+",
+      "label": "Active Clients"
+    }
+  ],
+  "curiosity": [
+    "Protocol analysis",
+    "Network architecture",
+    "Application internals",
+    "System behavior",
+    "API ecosystems",
+    "Performance optimization",
+    "Debugging complex software"
+  ],
+  "contact": [
+    {
+      "icon": "Github",
+      "label": "GitHub",
+      "value": "@CycloneAddons",
+      "href": "https://github.com/CycloneAddons"
+    },
+    {
+      "icon": "Mail",
+      "label": "Email",
+      "value": "cycloneaddons@zenkaix.dev",
+      "href": "mailto:cycloneaddons@zenkaix.dev"
+    },
+    {
+      "icon": "Linkedin",
+      "label": "LinkedIn",
+      "value": "in/CycloneAddons",
+      "href": "https://linkedin.com/in/CycloneAddons"
+    },
+    {
+      "icon": "Discord",
+      "label": "Discord",
+      "value": "Zenkai HQ",
+      "href": "https://zenkaix.dev/invite"
+    },
+    {
+      "icon": "Youtube",
+      "label": "YouTube",
+      "value": "@CycloneAddons",
+      "href": "https://www.youtube.com/@CycloneAddons"
+    }
+  ],
+  "projects": [
+    {
+      "id": "battery-protector",
+      "index": "01",
+      "name": "Battery Protector",
+      "tag": "Desktop Application · Battery Management",
+      "description": "Battery Protector is a lightweight software for Windows that alerts the user when the battery reaches 80% and plays music until the charger is unplugged. It also displays the battery percentage in the system tray.",
+      "impact": "Designed to improve long-term battery health by notifying users at 80% charge, reducing battery wear and promoting efficient power management.",
+      "stack": [
+        "Tauri",
+        "Rust",
+        "React",
+        "CSS"
+      ],
+      "images": [
+        "https://i.ibb.co/y9jtFmw/1781874506.png",
+        "https://i.ibb.co/tMnygwqV/1781874496.png"
+      ],
+      "github": "https://github.com/CycloneAddons/Battery-Protector",
+      "demo": "https://battery-protector-site.vercel.app/"
+    },
+    {
+      "id": "neolize",
+      "index": "02",
+      "name": "Neolize",
+      "tag": "Computer Vision · Esports ",
+      "description": "An AI-powered esports automation platform that generates BGMI/PUBG Mobile tournament point tables from match screenshots. Built using a custom YOLO detection pipeline, PaddleOCR, fuzzy matching algorithms, and automated scoring logic to transform raw tournament screenshots into professional point tables within minutes.",
+      "impact": "Automated a previously manual esports workflow, cutting point-table generation time by over 95% and reducing operational costs by up to 80% for tournament organizers.",
+      "stack": [
+        "Node.js",
+        "Python",
+        "Discord.js",
+        "YOLO Annotation",
+        "PaddleOCR",
+        "MongoDB",
+        "Canvas"
+      ],
+      "images": [
+        "https://i.ibb.co/96H5SLh/1781882322.png",
+        "https://i.ibb.co/qFcJtBZ5/1781882319.png",
+        "https://i.ibb.co/Ndzj9gmp/1781882315.png"
+      ],
+      "demo": "https://discord.com/oauth2/authorize?client_id=1393429291206967296"
+    },
+    {
+      "id": "onedream-esports",
+      "index": "03",
+      "name": "One Dream Esports",
+      "tag": "Esports · OAuth2 · Backend",
+      "description": "A tournament management platform for esports organizations featuring secure authentication, player onboarding, tournament administration, announcements, and account management. The platform enables organizers to manage tournaments, communicate with players, and maintain a centralized competitive ecosystem.",
+      "impact": "Established the core authentication and user-management infrastructure powering the platform, implementing email/password authentication, email verification, secure session handling, and OAuth2 integrations with Google and Discord. Enabled secure onboarding and access control for players, organizers, and administrators while providing a scalable foundation for future platform growth.",
+      "stack": [
+        "Node.js",
+        "MongoDB",
+        "Redis",
+        "Express.js"
+      ],
+      "images": [
+        "https://i.ibb.co/mC7KN84Z/1781874163.png",
+        "https://i.ibb.co/XkyFGBC0/1781874303.png"
+      ],
+      "demo": "https://onedreamesports.in/"
+    },
+    {
+      "id": "cybrox-cloud-bot",
+      "index": "04",
+      "name": "Cybrox Cloud Bot",
+      "tag": "Bot · Infrastructure · Drive",
+      "description": "Cybrox Cloud is a file sharing bot for Telegram, enabling users to upload and manage files with private links. Files can be made public and searchable with the /public command, making them available for sharing through unique codes.",
+      "impact": "Simplified file sharing by enabling instant uploads, private links, and searchable public files directly through Telegram, reducing friction for users and communities.",
+      "stack": [
+        "Python",
+        "Telegram",
+        "MongoDB"
+      ],
+      "images": [
+        "https://i.ibb.co/SX4hNgXP/1781883902.png",
+        "https://i.ibb.co/LLstZ6f/1781883912.png"
+      ],
+      "demo": "https://t.me/CybroxCloudBot",
+      "github": "https://github.com/CycloneAddons/Cybrox-Cloud-Bot"
+    }
+  ]
+}
